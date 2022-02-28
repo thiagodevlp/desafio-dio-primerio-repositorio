@@ -1,0 +1,2 @@
+Link para donwload do git https://git-scm.com/download/win
+O Git Bush é um terminal extendido para facilitar o uso do Git.
